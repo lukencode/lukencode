@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi friends 👋
+
+I am Luke Lowrey, I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](https://endpointiq.com.au/).
+
+#### More from me
+
+- My blog [lukelowrey.com](https://lukelowrey.com)
+- Follow me on twitter [@lukencode](https://twitter.com/lukencode)
 
 <!--
 **lukencode/lukencode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
