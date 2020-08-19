@@ -1,7 +1,7 @@
 <h2>👋 Hi friends! I'm Luke.</h3>
-<p> 
-  I lead tech teams and build things on the web. CTO at <a href='https://endpointiq.com.au/'>Endpoint IQ</a>.
-</p>
+
+I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](https://endpointiq.com.au/'). 
+
 <h4>
   <a href="https://lukelowrey.com">🌐 lukelowrey.com</a> • 
   <a href="https://twitter.com/lukencode">@lukencode on Twitter</a>
