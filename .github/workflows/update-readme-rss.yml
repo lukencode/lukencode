@@ -15,10 +15,10 @@ jobs:
         with:
           feed-url: https://lukelowrey.com/rss/
           readme-section: feed
-          template: "**[{{ title }}]({{ link }})**\n{{ contentSnippet }}\n\n"
+          template: "**[{{ title }}]({{ link }})**\n\n{{ contentSnippet }}\n\n\n"
 
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://lukelowrey.com/notes/rss/
           readme-section: notes
-          template: "**[{{ title }}]({{ link }})**\n{{ contentSnippet }}\n\n"
+          template: "**[{{ title }}]({{ link }})**\n\n{{ contentSnippet }}\n\n\n"
