@@ -21,4 +21,3 @@ jobs:
         with:
           feed-url: https://lukelowrey.com/notes/rss/
           readme-section: notes
-          template: "##### [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
