@@ -1,9 +1,11 @@
-### Hi friends 👋
-
-I am Luke Lowrey, I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](https://endpointiq.com.au/).
-
-- My blog [lukelowrey.com](https://lukelowrey.com)
-- Follow me on twitter [@lukencode](https://twitter.com/lukencode)
+<h2 align="center">Hi friends 👋! I'm Luke.</h3>
+<p align="center"> 
+  I lead tech teams and build things on the web. CTO at <a href='https://endpointiq.com.au/'>Endpoint IQ</a>.
+</p>
+<h3 align="center">
+  <a href="https://lukelowrey.com">Blog</a> •
+  <a href="https://twitter.com/lukencode">Twitter</a>
+</p>
 
 #### Recent Blog Posts
 <!--START_SECTION:feed-->
