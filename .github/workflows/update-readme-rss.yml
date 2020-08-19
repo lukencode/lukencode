@@ -15,7 +15,7 @@ jobs:
         with:
           feed-url: https://lukelowrey.com/rss/
           readme-section: feed
-          template: "#### [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
 
       - uses: JasonEtco/rss-to-readme@v1
         with:
