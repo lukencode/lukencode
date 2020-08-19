@@ -25,16 +25,11 @@ Improve the quality of your next product demo using this preparation checklist a
 
 ### Notes and snippets
 <!--START_SECTION:notes-->
-##### [SQL Server script to create a database, login, user and permission](https:&#x2F;&#x2F;lukelowrey.com&#x2F;sql-server-script-to-create-a-database-user-a&#x2F;) 
-The simplest way to bring up a new database and user for testing and development.
-##### [SQL Server Script to magically cascade delete rows from table and foreign key relationships](https:&#x2F;&#x2F;lukelowrey.com&#x2F;magic-cacscade-delete-sql-server-script&#x2F;) 
-This script deletes from the source table and rows in other tables linked by foreign keys.
-##### [SQL Server script to automatically create indexes for foreign keys](https:&#x2F;&#x2F;lukelowrey.com&#x2F;sql-server-script-to-automatically-create-indexes-for-foreign-keys&#x2F;) 
-This script will generate the SQL to create an index for every foreign key that is missing one.
-##### [Change embedded tweet dark theme to match site](https:&#x2F;&#x2F;lukelowrey.com&#x2F;change-embedded-tweet-dark-theme-to-match-site&#x2F;) 
-My custom Ghost theme uses a typical CSS&#x2F;JS dark mode toggle. One thing I found jarring was embedded tweets not updating to the new theme. I put together this hack javascript (because I could find no better approach) that waits until (hopefully) the tweet has loaded then updates the
-##### [Dark mode in 4 tweets](https:&#x2F;&#x2F;lukelowrey.com&#x2F;dark-mode-in-four-tweets&#x2F;) 
-I did a nice simple dark mode CSS guide a little while ago. Here is my attempt to distill it into a tweet thread:The easiest #html &#x2F; #css &#x2F; #javascript dark mode in 4 tweets.#100DaysOfCode #coding1. 🌞Light (also default via :root selector) and 🌙Dark theme css variables pic.twitter.
+* [SQL Server script to create a database, login, user and permission](https:&#x2F;&#x2F;lukelowrey.com&#x2F;sql-server-script-to-create-a-database-user-a&#x2F;)
+* [SQL Server Script to magically cascade delete rows from table and foreign key relationships](https:&#x2F;&#x2F;lukelowrey.com&#x2F;magic-cacscade-delete-sql-server-script&#x2F;)
+* [SQL Server script to automatically create indexes for foreign keys](https:&#x2F;&#x2F;lukelowrey.com&#x2F;sql-server-script-to-automatically-create-indexes-for-foreign-keys&#x2F;)
+* [Change embedded tweet dark theme to match site](https:&#x2F;&#x2F;lukelowrey.com&#x2F;change-embedded-tweet-dark-theme-to-match-site&#x2F;)
+* [Dark mode in 4 tweets](https:&#x2F;&#x2F;lukelowrey.com&#x2F;dark-mode-in-four-tweets&#x2F;)
 <!--END_SECTION:notes-->
 
 ### [📫 Subscribe for more](https://lukelowrey.com/signup/)
