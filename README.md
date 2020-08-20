@@ -1,4 +1,4 @@
-<h2>👋 Hi friends! I'm Luke.</h3>
+# 👋 Hi friends! I'm Luke.
 
 I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](https://endpointiq.com.au/'). 
 
@@ -9,7 +9,7 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 
 <hr />
 
-### Blog Posts
+### 📙 Blog Posts
 <!--START_SECTION:feed-->
 #### [Introducing GhostSolo - a free and open source Ghost Theme](https:&#x2F;&#x2F;lukelowrey.com&#x2F;ghostsolo-a-free-and-open-source-ghost-theme&#x2F;) 
 *GhostSolo is a free and open source Ghost theme created for solo bloggers.*
