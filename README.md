@@ -23,7 +23,7 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 *Improve the quality of your next product demo using this preparation checklist as a guide. No matter how well you know the software, you need a plan.*
 <!--END_SECTION:feed-->
 
-### Notes and snippets
+### 📒 Notes and snippets
 <!--START_SECTION:notes-->
 * [SQL Server script to create a database, login, user and permission](https:&#x2F;&#x2F;lukelowrey.com&#x2F;sql-server-script-to-create-a-database-user-a&#x2F;)
 * [SQL Server Script to magically cascade delete rows from table and foreign key relationships](https:&#x2F;&#x2F;lukelowrey.com&#x2F;magic-cacscade-delete-sql-server-script&#x2F;)
