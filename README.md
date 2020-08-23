@@ -11,6 +11,8 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
+#### [GitHub action to automatically add blog posts to your profile](https:&#x2F;&#x2F;lukelowrey.com&#x2F;github-action-to-add-blog-posts-to-your-profile&#x2F;) 
+*Add blog posts to your GitHub profile automatically in 5 minutes via RSS and GitHub Actions.*
 #### [Introducing GhostSolo - a free and open source Ghost Theme](https:&#x2F;&#x2F;lukelowrey.com&#x2F;ghostsolo-a-free-and-open-source-ghost-theme&#x2F;) 
 *GhostSolo is a free and open source Ghost theme created for solo bloggers.*
 #### [The simplest CSS variable dark mode theme](https:&#x2F;&#x2F;lukelowrey.com&#x2F;css-variable-theme-switcher&#x2F;) 
@@ -19,8 +21,6 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 *How to automate creating and pushing nuget packages from GitHub to nuget.org and other sources.*
 #### [Presentation tips for a better product demo](https:&#x2F;&#x2F;lukelowrey.com&#x2F;product-demo-presentation-tips&#x2F;) 
 *Software demos can be stressful and overwhelming. Use these tips to deliver a confident and professional demo.*
-#### [How to prepare the perfect product demo](https:&#x2F;&#x2F;lukelowrey.com&#x2F;product-demo-checklist&#x2F;) 
-*Improve the quality of your next product demo using this preparation checklist as a guide. No matter how well you know the software, you need a plan.*
 <!--END_SECTION:feed-->
 
 ### 📒 Notes and snippets
