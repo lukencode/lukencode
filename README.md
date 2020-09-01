@@ -11,6 +11,8 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
+#### [GitHub Action - Build and Run .NET Tests on new pull requests](https:&#x2F;&#x2F;lukelowrey.com&#x2F;github-action-dotnet-pr-validation&#x2F;) 
+*Validate your dotnet code by building and running tests on every pull request.*
 #### [GitHub action to automatically add blog posts to your profile](https:&#x2F;&#x2F;lukelowrey.com&#x2F;github-action-to-add-blog-posts-to-your-profile&#x2F;) 
 *Add blog posts to your GitHub profile automatically in 5 minutes via RSS and GitHub Actions.*
 #### [Introducing GhostSolo - a free and open source Ghost Theme](https:&#x2F;&#x2F;lukelowrey.com&#x2F;ghostsolo-a-free-and-open-source-ghost-theme&#x2F;) 
@@ -19,8 +21,6 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 *Use CSS variables and simple javascript to enable dark mode and themes on your website.*
 #### [Use GitHub actions to publish NuGet packages](https:&#x2F;&#x2F;lukelowrey.com&#x2F;use-github-actions-to-publish-nuget-packages&#x2F;) 
 *How to automate creating and pushing nuget packages from GitHub to nuget.org and other sources.*
-#### [Presentation tips for a better product demo](https:&#x2F;&#x2F;lukelowrey.com&#x2F;product-demo-presentation-tips&#x2F;) 
-*Software demos can be stressful and overwhelming. Use these tips to deliver a confident and professional demo.*
 <!--END_SECTION:feed-->
 
 ### 📒 Notes and snippets
