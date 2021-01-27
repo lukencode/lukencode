@@ -11,6 +11,8 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
+#### [A complete guide to send email in .NET (2021)](https:&#x2F;&#x2F;lukelowrey.com&#x2F;dotnet-email-guide-2021&#x2F;) 
+*Use FluentEmail to send emails in .NET. Send with Smtp, Mailgun or SendGrid and use customisable Razor or Liquid templates for your content.*
 #### [GitHub Action - Build and Run .NET Tests on new pull requests](https:&#x2F;&#x2F;lukelowrey.com&#x2F;github-action-dotnet-pr-validation&#x2F;) 
 *Validate your dotnet code by building and running tests on every pull request.*
 #### [GitHub action to automatically add blog posts to your profile](https:&#x2F;&#x2F;lukelowrey.com&#x2F;github-action-to-add-blog-posts-to-your-profile&#x2F;) 
@@ -19,8 +21,6 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 *GhostSolo is a free and open source Ghost theme created for solo bloggers.*
 #### [The simplest CSS variable dark mode theme](https:&#x2F;&#x2F;lukelowrey.com&#x2F;css-variable-theme-switcher&#x2F;) 
 *Use CSS variables and simple javascript to enable dark mode and themes on your website.*
-#### [Use GitHub actions to publish NuGet packages](https:&#x2F;&#x2F;lukelowrey.com&#x2F;use-github-actions-to-publish-nuget-packages&#x2F;) 
-*How to automate creating and pushing nuget packages from GitHub to nuget.org and other sources.*
 <!--END_SECTION:feed-->
 
 ### 📒 Notes and snippets
