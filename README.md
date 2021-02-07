@@ -2,10 +2,10 @@
 
 I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](https://endpointiq.com.au/'). 
 
-<h4>
-  <a href="https://lukelowrey.com">🌐 lukelowrey.com</a> • 
-  <a href="https://twitter.com/lukencode">@lukencode on Twitter</a>
-</h4>
+Find me at:
+
+### [🌐 lukelowrey.com](lukelowrey.com)
+### [@lukencode on Twitter](https://twitter.com/lukencode)
 
 <hr />
 
@@ -32,4 +32,3 @@ I lead tech teams and build things on the web. Currently CTO at [Endpoint IQ](ht
 * [Dark mode in 4 tweets](https:&#x2F;&#x2F;lukelowrey.com&#x2F;dark-mode-in-four-tweets&#x2F;)
 <!--END_SECTION:notes-->
 
-### [📫 Subscribe for more](https://lukelowrey.com/signup/)
